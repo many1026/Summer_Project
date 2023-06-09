@@ -1,2 +1,3 @@
 # Summer_Project
-a project using NLP
+## NLP
+A project that takes a paragraph as an input and you can rephrase it and you can, using sentiment analysis, analyze 
